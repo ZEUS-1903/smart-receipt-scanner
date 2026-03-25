@@ -1,11 +1,9 @@
 """
-receipt_parser.py — Core DL engine using Donut (Document Understanding Transformer)
+Core DL engine using Donut (Document Understanding Transformer)
 
 The Donut model uses a Swin Transformer encoder to process receipt images
-and a BART decoder to generate structured JSON output — no OCR needed.
+and a BART decoder to generate structured JSON output and no OCR needed.
 
-Model: AdamCodd/donut-receipts-extract (fine-tuned on ~1100 receipts)
-Fallback: naver-clova-ix/donut-base-finetuned-cord-v2 (CORD dataset)
 """
 
 import re
