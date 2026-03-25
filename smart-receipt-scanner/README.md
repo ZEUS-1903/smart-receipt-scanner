@@ -149,7 +149,3 @@ smart-receipt-scanner/
 ## tech
 
 python · pytorch · huggingface transformers · scikit-learn · streamlit · sqlite · pillow · opencv
-
-## license
-
-MIT — do whatever you want with it.
