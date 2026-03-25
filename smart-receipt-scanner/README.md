@@ -4,7 +4,7 @@ I got tired of manually entering receipts into spreadsheets. So I built a thing.
 
 This is a Python agent that scans receipt photos, pulls out the store name, items, prices, and total using a deep learning model (Donut — a vision transformer), then categorizes the spending and tracks it over time. No cloud APIs. Everything runs on your machine.
 
-![Python](https://img.shields.io/badge/python-3.9+-blue) ![PyTorch](https://img.shields.io/badge/pytorch-2.0+-orange) ![License](https://img.shields.io/badge/license-MIT-green)
+![Python](https://img.shields.io/badge/python-3.9+-blue) ![PyTorch](https://img.shields.io/badge/pytorch-2.0+-orange) 
 
 ---
 
